@@ -19,3 +19,7 @@ I'm QA Automation Engineer (SDET)
 </p>
 
 ### My projects:
+
+#### :heavy_check_mark: UI Autotests
+
+#### :heavy_check_mark: API Autotests

@@ -11,15 +11,11 @@ I'm QA Automation Engineer (SDET)
   <code><img width="5%" title="Selenoid" src="./media/icons/Selenoid.svg"></code>
   <code><img width="5%" title="Gradle" src="./media/icons/Gradle.svg"></code>
   <code><img width="5%" title="Allure Report" src="./media/icons/Allure.svg"></code>
-  <code><img width="5%" title="Allure TestOps" src="./media/icons/Allure_TO.svg"></code>
   <code><img width="5%" title="Github" src="./media/icons/GitHub.svg"></code>
   <code><img width="5%" title="Jenkins" src="./media/icons/Jenkins.svg"></code>
-  <code><img width="5%" title="AndroidStudio" src="./media/icons/Android-studio.svg"></code>
   <code><img width="5%" title="Appium" src="./media/icons/Appium.svg"></code>
   <code><img width="5%" title="Browserstack" src="./media/icons/Browserstack.svg"></code>
   <code><img width="5%" title="Jira" src="./media/icons/RestAssured.svg"></code>
-  <code><img width="5%" title="Jira" src="./media/icons/Jira.svg"></code>
-  <code><img width="5%" title="Telegram" src="./media/icons/Telegram.svg"></code>
 </p>
 
 ### My projects:
